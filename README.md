@@ -115,16 +115,6 @@ Automated deployment to Google Cloud Run:
 make deploy
 ```
 
-## 🧪 Testing
-
-```bash
-# Run all tests
-make test_kitt
-
-# Run specific test suites
-make test_api_root
-make test_api_predict
-```
 
 ## 📈 Performance Metrics
 
